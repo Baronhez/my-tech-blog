@@ -2,7 +2,6 @@
 title: How to activate Windows 10, Windows 11 and Office for free
 published: 2022-08-25
 description: Because paying is for suckers.
-image: "../assets/images/windows.jpg"
 tags: [Windows, Pirate, CMD]
 category: Windows
 draft: false
