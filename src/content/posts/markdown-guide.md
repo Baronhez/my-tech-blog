@@ -1,6 +1,6 @@
 ---
 title: Markdown Beginner Guide
-published: 2023-10-01
+published: 2022-08-27
 description: I am not an expert, but this is more than enough for me.
 tags: [Markdown]
 category: Markdown
