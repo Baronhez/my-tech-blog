@@ -27,7 +27,7 @@ Mi jefe y yo no dábamos crédito. A fin de cuentas, nadie le había dado permis
 
 Cuando volvió al despacho en el que nos encontrábamos mi jefe y yo, lo hizo con seguridad. Y diciendo que su amigo "estaba dispuesto" y que "va a dimitir ya mismo de su empresa actual para venir aquí".
 
-La situación empeoraba por momentos, porque ya se había comprometido a darle trabajo y el muchacho al que acaba de llamar estana dimitiendo en ese instante.
+La situación empeoraba por momentos, porque ya se había comprometido a darle trabajo y el muchacho al que acaba de llamar estaba dimitiendo en ese instante.
 
 Mi jefe, tímidamente, vaciló durante unos segundos y terminó preguntando lo que yo tenía en mente: "Pero... ¿es buen programador?"
 
