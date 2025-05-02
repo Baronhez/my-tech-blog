@@ -1,5 +1,5 @@
 ---
-title: The worst "programmer" I have ever meet
+title: The worst "programmer" I have ever met
 published: 2025-05-02
 description: A story to tell.
 image: ../../assets/images/simpson.jpg
