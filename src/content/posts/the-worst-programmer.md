@@ -15,7 +15,7 @@ Pues no, aquí no. Aquí voy a contar la historia del peor programador que he co
 
 Corría marzo de 2024 cuando uno de mis mejores amigos, quien trabajaba conmigo en mi empresa, dimitió. Cabe destacar que en aquel entonces era el main developer del equipo, además del team lead y un programador estupendo.
 
-En aquel entonces traté de no preocuparme demasiado. Pensaba "tengo en mente un sustituto que podría suplir sin problema su marcha para que no afecte demasiado a la entrega de los proyectos.
+En aquel entonces traté de no preocuparme demasiado. Pensaba "tengo en mente un sustituto y con suerte seguiremos adelante".
 
 Tras un par de semanas deliverando que hacer, finalmente mi jefe se reunió conmigo y con el project manager de mi empresa (también amigo mío) para que le dieramos soluciones.
 
