@@ -1,5 +1,5 @@
 ---
-title: Docker-Compose Best Practices
+title: Docker Swarm Commands
 published: 2022-09-18
 description: Just a few to manage a small cluster.
 tags: [Docker]
