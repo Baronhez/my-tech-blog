@@ -5,7 +5,7 @@ description: A story to tell.
 image: ../../assets/images/simpson.jpg
 tags: [Comedy]
 category: Comedy
-draft: false
+draft: true
 ---
 Normalmente, uno cabría imaginar que este tipo de post luego dan un giro como pasa en muchos blogs, y realmente tratan sobre un programador que hace "pocos commits, pero muy importantes" y eso hace rabiar a los managers.
 
